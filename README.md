@@ -3,6 +3,8 @@
 
 Este projeto foi desenvolvido com auxílio de IA para o bootcamp “TONNIE - Java and AI in Europe” da DIO
 
+Criei um Ebook com passo a passo para criar uma planilha de gastos mensais e a criação de um DASHBOARD utilizando
+plataforma de Business Intelligence para vizualizar as despesas de modo interativo.
 
 
 
